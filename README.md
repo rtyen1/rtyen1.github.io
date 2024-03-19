@@ -4,4 +4,4 @@
 ## 1. 作业1
 作业1描述：
 
-[作业1链接](https://classMon78.github.io/全国人口数据地图2020_map.html)
+[作业1链接](https://rtyen1.github.io/全国人口数据地图2020_map.html)
